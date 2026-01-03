@@ -5,7 +5,6 @@ An interactive drawing pad featuring pen, text, flower, erase, delete, and color
 <p align="center">
 <img alt="Interactive Drawing Pad Demo Gif" src="https://github.com/user-attachments/assets/b12fc78f-2e93-48e4-baa4-cb6b375c276e" />
 </p>
-<br><br>
 This project was completed for the course LMC 6310: The Computer as an Expressive Medium. (Fall ‘25, Georgia Tech).
 
 ## Tech Stack  
